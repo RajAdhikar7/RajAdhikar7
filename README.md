@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajadhikar7" alt="rajadhikar7" /></a> </p>
 
-- 🔭 I’m currently working on [Regexai](https://github.com/riteshtambe/RegexA)
+- 🔭 I’m currently working on Front-end-projects
 
-- 🌱 I’m currently learning **django , flask , NLP , Promtengineering.**
+- 🌱 I’m currently learning **HTML ,CSS , Javascript,React ,django , flask ,.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajAdhikar7](https://github.com/RajAdhikar7)
 
