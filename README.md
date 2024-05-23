@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rameshwar Adhikar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Django developer/AI-ML enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajadhikar7" alt="rajadhikar7" /></a> </p>
 
-- 🔭 I’m currently working on Front-end-projects
+- 🔭 I’m currently working on Django-projects
 
 - 🌱 I’m currently learning **HTML ,CSS , Javascript,React ,django , flask ,.**
 
