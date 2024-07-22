@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Django-projects
 
-- 🌱 I’m currently learning **HTML ,CSS , Javascript,React ,django , flask ,.**
+- 🌱 I’m currently learning **, Javascript,React ,django , flask ,.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajAdhikar7](https://github.com/RajAdhikar7
 
