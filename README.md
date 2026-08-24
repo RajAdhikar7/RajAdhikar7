@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Adhikar</h1>
-<h3 align="center">A passionate Django developer/AI-ML enthusiast from India</h3>
+<h3 align="center">A passionate Python developer/AI-ML enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajadhikar7" alt="rajadhikar7" /></a> </p>
 
